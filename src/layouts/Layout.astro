@@ -19,7 +19,6 @@ const { title, description, overwritePreview } = Astro.props;
         <MetaConfig
             title={title}
             description={description}
-            preview={overwritePreview ? overwritePreview : PreviewPng.src}
         />
         <title>{title}</title>
         <Global styles={NormalizeCSS} />
