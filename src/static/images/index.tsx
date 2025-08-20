@@ -63,7 +63,6 @@ export const Image: FC<ImageProps> = ({
 
 // default export of the images
 export {
-    PreviewPng,
     HeroSlider1,
     HeroSlider2,
     HeroSlider3,
