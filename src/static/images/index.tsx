@@ -10,7 +10,6 @@ import InfiniteImg1 from "./infinite-img-1.webp";
 import InfiniteImg2 from "./infinite-img-2.webp";
 
 export const images = {
-    preview: PreviewPng,
     heroImg: HeroImg,
     logo: Logo,
 };
